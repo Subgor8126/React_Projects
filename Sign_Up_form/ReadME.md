@@ -1,1 +1,1 @@
-This is a basic sign up form with form validation. Currently it has almost zero styling.
+This is a basic sign up form with basic form validation. Currently it has almost zero styling.
